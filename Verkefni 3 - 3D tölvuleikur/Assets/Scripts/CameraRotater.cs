@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Script sem lætur þig horfa um með músinni (hreyfa og rotate-a myndavélina)
+
 public class CameraRotater : MonoBehaviour 
 { 
    
