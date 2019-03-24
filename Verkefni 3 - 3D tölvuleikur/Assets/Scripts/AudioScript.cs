@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Script sem spilar lag þegar þú byrjar leikinn
+
 public class AudioScript : MonoBehaviour {
 
 	public AudioClip MusicClip;
