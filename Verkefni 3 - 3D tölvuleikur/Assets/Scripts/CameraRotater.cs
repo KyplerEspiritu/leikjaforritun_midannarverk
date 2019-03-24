@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraRotater : MonoBehaviour
-{
-
+public class CameraRotater : MonoBehaviour 
+{ 
+   
     public float speedH = 2.0f;
     public float speedV = 2.0f;
     public float sensitivity = 1.25f;
