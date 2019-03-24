@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Script sem er notað svo að þú hreyfir þig samkvæmt hvert þú ert að horfa (myndavélin)
+
 public class CameraController : MonoBehaviour 
 {   
 	public GameObject player; 
