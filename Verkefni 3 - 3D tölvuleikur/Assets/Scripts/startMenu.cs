@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class startMenu : MonoBehaviour
 {
-    void Start()
+    void Start() // Fall sem er notað svo þú getur notað músina í main menu
     {
         Cursor.visible = true;
         Cursor.lockState = CursorLockMode.None;
